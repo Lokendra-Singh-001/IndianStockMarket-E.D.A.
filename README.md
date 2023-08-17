@@ -16,7 +16,7 @@
 </h2>
 Python | Pandas | Selenium | Matplotlib | Seaborn | HTML
  
- Visit here for web EDA report 👉 - https://manishhemnani06.github.io/FUNDAMENTAL-STOCKS-ANALYSIS-EDA/
+ Visit here for web EDA report 👉 - https://github.com/Lokendra-Singh-001/IndianStockMarket-E.D.A./blob/main/STOCKS%20FUNDAMENTAL%20ANALYSIS.ipynb
  
  <h1>
  👍Descriptive Explanation - 
@@ -52,8 +52,7 @@ Python | Pandas | Selenium | Matplotlib | Seaborn | HTML
 
 ![a89fuDqSpy](https://user-images.githubusercontent.com/116347164/232292824-ffce1ee0-d251-4d15-aaaa-b706a83a1d68.png)
 
- Visit here for web EDA report 👉 - https://manishhemnani06.github.io/FUNDAMENTAL-STOCKS-ANALYSIS-EDA/
-
+ Visit here for web EDA report 👉 - https://github.com/Lokendra-Singh-001/IndianStockMarket-E.D.A./blob/main/STOCKS%20FUNDAMENTAL%20ANALYSIS.ipynb
 
 
 
